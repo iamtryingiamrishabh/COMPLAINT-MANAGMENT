@@ -71,7 +71,9 @@ Feedback
 Solution_Type
 
 ###### 🔗 Relationships Between Entities
+
 Even though attributes are defined separately, the logical relationships between entities are:
+
 1️⃣ User – Complaint
 One User can file multiple Complaints
 Each Complaint belongs to one User
